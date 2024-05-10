@@ -1,0 +1,8 @@
+departure_city,arrival_city,stops,date,price
+Delhi,Mumbai,1,2024-01-01,5000
+Delhi,Chennai,1,2024-01-01,6000
+Mumbai,Chennai,1,2024-01-01,5500
+Mumbai,Delhi,1,2024-01-01,5500
+Mumbai,London,1,2024-01-01,20000
+Delhi,London,2,2024-01-01,25000
+London,New York,1,2024-01-01,30000
